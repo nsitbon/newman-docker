@@ -1,4 +1,4 @@
-FROM node:6.4.0
+FROM node:6.4.0-slim
 MAINTAINER Nicolas Sitbon <nsitbon@figarocms.fr>
 
 # Set newman version
